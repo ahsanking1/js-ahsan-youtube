@@ -1,2 +1,3 @@
 # js-ahsan-youtube
-A code repo for javascript series at chai or code youtube chanel
+This is my first Git repository
+Author - Ahsan Raza
